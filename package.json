@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-highlight",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Tailwind CSS plugin for adding highlights and inset box shadows",
   "main": "src/index.js",
   "license": "MIT",
