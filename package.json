@@ -4,7 +4,7 @@
   "description": "A Tailwind CSS plugin for adding highlights and inset box shadows",
   "main": "src/index.js",
   "license": "MIT",
-  "repository": "https://github.com/tailwindlabs/tailwindcss-aspect-ratio",
+  "repository": "https://github.com/Froskk/tailwindcss-highlight",
   "prettier": {
     "printWidth": 100,
     "semi": false,
